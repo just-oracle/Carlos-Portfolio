@@ -19,9 +19,10 @@ nav{
     margin-bottom: 10px;
     border-radius: 10px;
 }
-
-a.button{
+.button{
     position: sticky;
+}
+a.button{
     display: inline-block;
     background: dodgerblue;
     color: white;
