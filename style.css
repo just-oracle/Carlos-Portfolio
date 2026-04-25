@@ -13,7 +13,6 @@ body{
 }
 
 nav{
-    position: sticky;
     background-color: darkslategray;
     display: inline-block;
     padding: 10px 20px;
