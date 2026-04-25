@@ -13,14 +13,14 @@ body{
 }
 
 nav{
+    position: sticky;
     background-color: darkslategray;
     display: inline-block;
     padding: 10px 20px;
     margin-bottom: 10px;
     border-radius: 10px;
 }
-.button{
-    position: fixed;
+
 }
 a.button{
     display: inline-block;
