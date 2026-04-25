@@ -20,7 +20,7 @@ nav{
     border-radius: 10px;
 }
 .button{
-    position: sticky;
+    position: fixed;
 }
 a.button{
     display: inline-block;
