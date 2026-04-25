@@ -21,6 +21,7 @@ nav{
 }
 
 a.button{
+    position: sticky;
     display: inline-block;
     background: dodgerblue;
     color: white;
